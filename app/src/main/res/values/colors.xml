@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="blue_100">#2749FF</color>
+    <color name="blue_100_10">#0E30E2</color>
+    <color name="blue_100_20">#3B75E5</color>
+    <color name="green">#FF00FF00</color>
+    <color name="green_500">#18BB6D</color>
+    <color name="gray_100">#E2E2E2</color>
+    <color name="yellow_10">#4C4019</color>
+    <color name="gray_1000">#464237</color>
+    <color name="zdc_gray">#afadae</color>
+    <color name="gray_ripple">#22000000</color>
+
+
+    <!--  Light - Dark colors  -->
+    <color name="colorOnSurface_10">#1A000000</color>
+    <color name="colorTitle">#000000</color>
+    <color name="colorBottomSheet">#FFFFFF</color>
+    <color name="shopTitleArt">#FFE080</color>
+    <color name="colorStoke">#000000</color>
+    <color name="colorStatus">#FFFFFF</color>
+    <color name="colorHomeQuickTipText">#66000000</color>
+    <color name="colorHomeTextBg">#08000000</color>
+    <color name="colorHomeCardBg">#0D000000</color>
+    <color name="colorHomeCardText">#3B75E5</color>
+    <color name="colorHomeCardButton">#A8FF228C</color>
+    <color name="colorFeedCardBg">#E2E2E2</color>
+</resources>
